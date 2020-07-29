@@ -11,4 +11,6 @@
   <br>
 </p>
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
+<p align="center">
+  ![正常大小的矩形](https://img.shields.io/badge/language-swift-yellowgreen.svg?style=flat-square)
+</p>
