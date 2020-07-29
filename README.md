@@ -1,7 +1,11 @@
 ![](https://markpersonal.oss-us-east-1.aliyuncs.com/pic/NoCodeRightNow.png)
 
 
-<center>Hi there, I'm Mark</center>
+<p align="center">
+  <br>
+  <samp>Hi there. I'm Mark.<br>
+  <br>
+</p>
  
  
 <div align=center>
