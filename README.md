@@ -1,9 +1,7 @@
 ![](https://markpersonal.oss-us-east-1.aliyuncs.com/pic/NoCodeRightNow.png)
 
-<p align="center">
-  <samp>Hi there. I'm Mark.<br>
-</p>
-  
+<h1 style="text-align:center">Hi there, I'm Mark </h1>
+ 
 <div align=center>
   # Hi there. I'm Mark.
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white&link=https://github.com/hritik5102"/>
