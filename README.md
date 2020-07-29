@@ -1,12 +1,7 @@
 ![](https://markpersonal.oss-us-east-1.aliyuncs.com/pic/NoCodeRightNow.png)
 
 
-<h1 align="center">
-  <br>
-  <samp>Hi there. I'm Mark.<br>
-  <font font-family:”微软雅黑” color="green">This is some text!</font>
-  <br>
-</h1>
+# Hi there, I'm Mark!
  
  
 <div align=center>
