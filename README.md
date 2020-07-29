@@ -11,6 +11,5 @@
   <br>
 </p>
 
-<p align="center">
-  ![正常大小的矩形](https://img.shields.io/badge/language-swift-yellowgreen.svg?style=flat-square)
-</p>
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
