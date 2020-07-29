@@ -1,4 +1,4 @@
-![](https://markpersonal.oss-us-east-1.aliyuncs.com/pic/NCodeRightNow.png)
+![](https://markpersonal.oss-us-east-1.aliyuncs.com/pic/NCodeRightNow (2).png)
 
 <p align="center">
   <br>
