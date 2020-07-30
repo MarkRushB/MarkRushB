@@ -18,3 +18,5 @@
   <img src="https://img.shields.io/badge/SpringBoot-black?style=flat&logo=spring&logoColor=white&link=https://github.com/hritik5102"/>
   <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white&link=https://github.com/hritik5102"/>
 </div>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarkRushB)](https://github.com/anuraghazra/github-readme-stats)
