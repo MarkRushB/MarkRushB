@@ -27,6 +27,6 @@
 
 <div align=center>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRushB&layout=compact"/>
   <br>
 </div>
