@@ -27,6 +27,6 @@
 
 <div align=center>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRushB&hide=html,jupyter Notebook&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRushB&hide=html&theme=dark"/>
   <br>
 </div>
