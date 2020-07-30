@@ -19,4 +19,6 @@
   <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white&link=https://github.com/hritik5102"/>
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarkRushB&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkRushB&theme=dark&title_color=FFD700"/>
+</div>
