@@ -24,9 +24,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MarkRushB&theme=dark&title_color=FFD700"/>
   <br>
 </div>
-
-<div align=center>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRushB&hide=html,jupyter Notebook&theme=dark"/>
-  <br>
-</div>
